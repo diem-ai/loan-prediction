@@ -6,3 +6,8 @@
  - Compare the optimized models with baseline models
  - Evaluate models with accuracy score, precision, recall and F1-score
  
+ # Steps
+ - Load dataset into pandas dataframe
+ - Explore features and select the relavant ones to train model
+ - Analysis the proportion of safe and risky loan in dataset
+ - 
