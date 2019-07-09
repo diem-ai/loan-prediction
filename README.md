@@ -24,3 +24,5 @@
 - numpy
 - scikit-learn
 
+# Reference:
+Machine Learning Specialization by University of Washington (Cousera)
