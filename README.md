@@ -25,4 +25,4 @@
 - scikit-learn
 
 # Reference:
-Machine Learning Specialization by University of Washington (Cousera)
+Machine Learning Specialization by University of Washington (Coursera)
